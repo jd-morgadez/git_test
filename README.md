@@ -1,1 +1,1 @@
-This is Dominic's first git project!
+Mastering Git! One command line at a time!
